@@ -6,7 +6,7 @@
    
   </div>
 
-<h3 align="center"> Tech stack </h3>
+<h2 align="center"> :zap: Tech stack :zap:</h2>
 <h5 align="center"> - Front-end </h5>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -32,7 +32,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 </p>
-<h3 align="center"> contect me </h3>
+<h2 align="center"> :mailbox_with_mail: contect me :mailbox_with_mail: </h2>
 
 <p align="center"> 
 <a href="mailto:wlgj0802@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgj0802@gmail.com"/></a>
