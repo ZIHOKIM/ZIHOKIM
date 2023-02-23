@@ -6,7 +6,7 @@
    
   </div>
 
-<h2 align="center"> :zap: Tech stack :zap:</h2>
+<h2 align="center"> Tech stack</h2>
 <h5 align="center"> - Front-end </h5>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -32,12 +32,12 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
 </p>
-<h2 align="center">:raising_hand: About me</h2>
+<h2 align="center">About me</h2>
 <p align="center"> 
 <a href="mailto:wlgj0802@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgj0802@gmail.com"/></a>
 </p>
 
-<h2 align="center"> :mailbox_with_mail: Contect me </h2>
+<h2 align="center">Contect me </h2>
 <p align="center"> 
 <a href="mailto:wlgj0802@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgj0802@gmail.com"/></a>
 <a href="mailto:wlgj0802@naver.com"><img src="https://img.shields.io/badge/Naver-00c43b?style=flat-square&logo=Naver&logoColor=white&link=mailto:wlgj0802@naver.com"/></a>
