@@ -34,7 +34,7 @@
 </p>
 <h2 align="center">About me</h2>
 <p align="center"> 
-<a href="https://www.notion.so/Portfolio-35ed96a589fd4e24ad2e549a8ffbc04e?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/Portfolio-7c4ed185c0044586aad9ea8e8347a36d?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
 <h2 align="center">Contect me </h2>
